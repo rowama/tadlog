@@ -9,7 +9,7 @@ INTERNAL_IPS=('127.0.0.1') # For debug_toolbar
 # Mine...
 PROJECT_ROOT='z:/Projects/tadlog'
 SITE_TITLE='TadLog'
-SITE_SUBTITLE="Jot a tad now. Be glad later."
+SITE_SUBTITLE="Now a tad, later glad."
 # End Mine
 
 ADMINS = (
