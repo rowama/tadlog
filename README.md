@@ -1,7 +1,6 @@
 Log A Tad
 =========
-Now a tad, later glad!
-----------------------
+#### Now a tad, later glad!
 
 1. Focuses on quick human generated logging of ... well, anything.
 2. Focuses on flexible addition of data structure with minimal impact to 1.
